@@ -1,0 +1,81 @@
+[
+  {
+    "author": "Gabriel Garcia Marquez",
+    "title": "One Hundred Years of Solitude",
+    "pages": 417,
+    "genre": "Magical Realism",
+    "language": "Spanish",
+    "year": "2000"
+  },
+  {
+    "author": "Harper Lee",
+    "title": "To Kill a Mockingbird",
+    "pages": 281,
+    "genre": "Fiction",
+    "language": "English",
+    "year": "2002"
+  },
+  {
+    "author": "George Orwell",
+    "title": "1984",
+    "pages": 328,
+    "genre": "Dystopian",
+    "language": "English",
+    "year": "2003"
+  },
+  {
+    "author": "J.K. Rowling",
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "pages": 309,
+    "genre": "Fantasy",
+    "language": "English",
+    "year": "1990"
+  },
+  {
+    "author": "Jane Austen",
+    "title": "Pride and Prejudice",
+    "pages": 279,
+    "genre": "Romance",
+    "language": "English",
+    "year": "1992"
+  },
+  {
+    "author": "F. Scott Fitzgerald",
+    "title": "The Great Gatsby",
+    "pages": 180,
+    "genre": "Fiction",
+    "language": "English",
+    "year": "1950"
+  },
+  {
+    "author": "Markus Zusak",
+    "title": "The Book Thief",
+    "pages": 552,
+    "genre": "Historical Fiction",
+    "language": "English"
+  },
+  {
+    "author": "Leo Tolstoy",
+    "title": "War and Peace",
+    "pages": 1225,
+    "genre": "Historical Fiction",
+    "language": "Russian",
+    "year": "1993"
+  },
+  {
+    "author": "Khaled Hosseini",
+    "title": "The Kite Runner",
+    "pages": 371,
+    "genre": "Drama",
+    "language": "English",
+    "year": "1988"
+  },
+  {
+    "author": "Agatha Christie",
+    "title": "Murder on the Orient Express",
+    "pages": 256,
+    "genre": "Mystery",
+    "language": "English",
+    "year": "50"
+  }
+]
